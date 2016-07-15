@@ -1,1 +1,6 @@
 C:\Users\Jesus Ledezma\Desktop\School Stuff\A5Starter\A5GameLibrary\bin\Debug\TicTacToe.exe.config
+C:\Users\Jesus Ledezma\Desktop\School Stuff\A5Starter\A5GameLibrary\bin\Debug\TicTacToe.exe
+C:\Users\Jesus Ledezma\Desktop\School Stuff\A5Starter\A5GameLibrary\bin\Debug\TicTacToe.pdb
+C:\Users\Jesus Ledezma\Desktop\School Stuff\A5Starter\A5GameLibrary\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
+C:\Users\Jesus Ledezma\Desktop\School Stuff\A5Starter\A5GameLibrary\obj\Debug\TicTacToe.exe
+C:\Users\Jesus Ledezma\Desktop\School Stuff\A5Starter\A5GameLibrary\obj\Debug\TicTacToe.pdb

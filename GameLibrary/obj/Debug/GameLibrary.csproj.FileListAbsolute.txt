@@ -1,0 +1,5 @@
+C:\Users\Jesus Ledezma\Desktop\School Stuff\A5Starter\GameLibrary\bin\Debug\GameLibrary.dll
+C:\Users\Jesus Ledezma\Desktop\School Stuff\A5Starter\GameLibrary\bin\Debug\GameLibrary.pdb
+C:\Users\Jesus Ledezma\Desktop\School Stuff\A5Starter\GameLibrary\obj\Debug\GameLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Jesus Ledezma\Desktop\School Stuff\A5Starter\GameLibrary\obj\Debug\GameLibrary.dll
+C:\Users\Jesus Ledezma\Desktop\School Stuff\A5Starter\GameLibrary\obj\Debug\GameLibrary.pdb
