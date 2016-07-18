@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace GameLibrary
 {
-    class Player
+    class Board
     {
-       
-            public char Token { get; set; }
-            public string Name { get; set; }
-        
     }
 }
