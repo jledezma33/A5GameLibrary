@@ -8,9 +8,7 @@ namespace GameLibrary
 {
     class Player
     {
-       
             public char Token { get; set; }
             public string Name { get; set; }
-        
     }
 }

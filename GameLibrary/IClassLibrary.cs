@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TicTacToe
+namespace GameLibrary 
 {
-    public class Player
+    public interface IClassLibrary
     {
-        public char Token { get; set; }
-        public string Name { get; set; }
+        char[,] BoardSize();
+        bool WinCondition();
     }
 }

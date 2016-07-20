@@ -58,6 +58,10 @@
       <Project>{BDA56671-7903-4776-994D-C18FF6BF3567}</Project>
       <Name>TicTacToe</Name>
     </ProjectReference>
+    <ProjectReference Include="..\GameLibrary\GameLibrary.csproj">
+      <Project>{12EDBAB5-B77A-4CAB-A8A8-B5F76080AC5F}</Project>
+      <Name>GameLibrary</Name>
+    </ProjectReference>
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">

@@ -17,7 +17,7 @@ namespace TicTacToe.Tests
             TicTac t = new TicTac();
             int[] expected = new int[] { 0, 1 };
 
-            int[] actual = t.ConvertToArrayLocation("2");
+            int[] actual = t.game.ConvertToArrayLocation("2");
 
             CollectionAssert.AreEqual(expected, actual);
         }
@@ -28,7 +28,7 @@ namespace TicTacToe.Tests
             TicTac t = new TicTac();
             int[] expected = new int[] { 2, 2 };
 
-            int[] actual = t.ConvertToArrayLocation("9");
+            int[] actual = t.game.ConvertToArrayLocation("9");
 
             CollectionAssert.AreEqual(expected, actual);
         }
@@ -40,7 +40,7 @@ namespace TicTacToe.Tests
             TicTac t = new TicTac();
             int[] expected = new int[] { 2, 2 };
 
-            int[] actual = t.ConvertToArrayLocation("a");
+            int[] actual = t.game.ConvertToArrayLocation("a");
 
             CollectionAssert.AreEqual(expected, actual);
         }
@@ -52,7 +52,7 @@ namespace TicTacToe.Tests
             TicTac t = new TicTac();
             int[] expected = new int[] { 2, 2 };
 
-            int[] actual = t.ConvertToArrayLocation("15");
+            int[] actual = t.game.ConvertToArrayLocation("15");
 
             CollectionAssert.AreEqual(expected, actual);
         }
