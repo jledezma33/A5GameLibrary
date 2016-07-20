@@ -89,11 +89,12 @@ namespace GameLibrary
         /// <returns>The X,Y position intended to be used with a 2D array</returns>
         public int[] ConvertToArrayLocation(string boardPosition)
         {
+            int position = Int32.Parse(boardPosition);
             if (Int32.Parse(boardPosition).Equals(false) || Int32.Parse(boardPosition) > board.GetLength(0) || Int32.Parse(boardPosition) > board.GetLength(1))
             {
                 Console.WriteLine("Invalid input");
             }
-            int position = Int32.Parse(boardPosition);
+            else            
             position--; //reduce position to account for 1-based board map (done for user experience)
             int row = position / 3;
             int column = position % 3;
